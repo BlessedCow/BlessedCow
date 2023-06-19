@@ -1,4 +1,4 @@
-Hey.
+### Hi
 
 I'm a Python developer with a passion for building automated solutions to streamline business processes. My focus is on utilizing OCR technology to automate Citrix billing software, by using libraries like PyTesseract, PyTorch, and PyAutoGUI to achieve this.
 
