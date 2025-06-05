@@ -1,14 +1,40 @@
-### Hi
+I'm a self-taught developer with a strong interest in IT, networking, and automation. I enjoy building tools that improve visibility, efficiency, and security across systems—especially in local networks and home labs.
 
-I'm a Python developer with a passion for building automated solutions to streamline business processes. My focus is on utilizing OCR technology to automate Citrix billing software, by using libraries like PyTesseract, PyTorch, and PyAutoGUI to achieve this.
+---
 
-Most of my repos are private, because they are either school-related or still not thought out completely and could also have some sensitive information. I don't want anyone to see what I've written just yet.
-I plan on making more of my repos public as I start to flesh out my programs.
+## 🚧 Projects in Progress
 
-I occasionally write and publish other things than just python like Google Apps Scripts and Java.
-I'm currently in college taking classes for Python and C++ so I have plans on doing some fun stuff with those.
+- **LAN Monitor**  
+  A Python web app that visualizes devices on your local network using ICMP, ARP, and OUI lookups. Built with Flask and Scapy.
 
-I'm still kinda new when it comes to Github - let alone programming. For the longest time I was all about computer hardware and electronic engineering, so programming is all very new to me. 
+- **Token POS**  
+  Scripts to enhance child behavior in an STRTP setting that could be used by anyone.
 
+- **Study Guides & Tools**  
+  Notes and scripts as I work toward my **CCNA** and **Network+** certifications.
 
+---
 
+## 🛠 Tech Stack
+
+- **Languages:** Python, Javascript, C++
+- **Frameworks & Tools:** Flask, PyAutoGUI, Docker
+- **Platforms:** Windows 10/11, Linux (Kali/Ubuntu), Raspberry Pi, Arduino
+
+---
+
+## 🌱 Learning & Interests
+
+- Networking fundamentals (OSI model, subnetting, routing)
+- Python scripting for automation
+- Lightweight dashboard & web UI design
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlessedCow&show_icons=true&theme=default&hide=issues)
+
+---
+
+Thanks for visiting! Feel free to explore my repos and reach out if you’re working on something interesting.
