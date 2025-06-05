@@ -1,4 +1,4 @@
-I'm a self-taught developer with a strong interest in IT, networking, and automation. I enjoy building tools that improve visibility, efficiency, and security across systems—especially in local networks and home labs.
+I'm a self-taught developer with a strong interest in IT, networking, and automation. I enjoy building tools that improve visibility, efficiency, and security across systems—especially in local networks and home labs. I'm always up for learning something new!
 
 ---
 
