@@ -1,33 +1,64 @@
-I'm a self-taught developer with a strong interest in IT, networking, and automation. I enjoy building tools that improve visibility, efficiency, and security across systems—especially in local networks and home labs. I'm always up for learning something new!
+I am a self-taught developer with a strong focus on systems thinking, automation, and decision-support tooling. My work sits at the intersection of **software engineering, networking, and applied pharmacology**, with an emphasis on building tools that are explainable, safety-oriented, and grounded in real-world constraints.
 
 ---
 
-## 🚧 Projects in Progress
+## 🚧 Active & Recent Projects
+
+- **PharmDS – Pharmacology Decision Support Engine**
+
+
+An educational, rule-based pharmacology decision-support system.
+
+-   Models PK and PD drug-drug interactions using structured rule sets
+    
+-   Produces severity assessments, rationales, and suggested actions
+    
+-   CLI-first architecture with a planned Web UI
+    
+-   Designed to support understanding and safe use, not clinical diagnosis
+    
+
+PharmDS reflects a deliberate focus on deterministic logic, traceable reasoning, and responsible boundaries.
+_________
 
 - **LAN Monitor**  
-  A Python web app that visualizes devices on your local network using ICMP, ARP, and OUI lookups. Built with Flask and Scapy.
+  Python-based tools for local network visibility and defensive analysis.
 
-- **Token POS**  
-  Scripts to enhance child behavior in an STRTP setting that could be used by anyone.
+-   Device discovery, fingerprinting, and optional port scanning
+    
+-   Vulnerability correlation using CVE, CVSS, and CISA KEV datasets
+    
+-   Modular architecture with Flask-based dashboards
+    
+-   Built for home labs, learning environments, and security awareness
+    
 
-- **Study Guides & Tools**  
-  Notes and scripts as I work toward my **CCNA** and **Network+** certifications.
+This work demonstrates a practical approach to understanding network behavior and risk through hands-on tooling.
+_________
+** Automation & Internal Tools** 
 
----
+Small, purpose-built utilities created to reduce friction in real environments.
+
+-   Workflow and behavior-tracking scripts developed with contextual constraints in mind
+    
+-   Emphasis on clarity, maintainability, and reviewability
+    
+-   Designed for operational and care-adjacent settings
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, Javascript, C++
-- **Frameworks & Tools:** Flask, PyAutoGUI, Docker
-- **Platforms:** Windows 10/11, Linux (Kali/Ubuntu), Raspberry Pi, Arduino
+- **Languages:** Python, JavaScript, HTML
+- **Frameworks & Tools:** Flask, SQLite, Scapy 
+- **Platforms:** Windows 10/11, Linux (Kali/Ubuntu), Raspberry Pi
 
 ---
 
 ## 🌱 Learning & Interests
 
-- Networking fundamentals (OSI model, subnetting, routing)
-- Python scripting for automation
-- Lightweight dashboard & web UI design
+- Network security fundamentals and device discovery
+- Pharmacokinetics and pharmacodynamics modeling
+- Python backend development
+- Designing maintainable, auditable software systems
 
 ---
 
@@ -37,4 +68,3 @@ I'm a self-taught developer with a strong interest in IT, networking, and automa
 
 ---
 
-Thanks for visiting! Feel free to explore my repos and reach out if you’re working on something interesting.
