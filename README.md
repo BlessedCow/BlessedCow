@@ -64,7 +64,7 @@ Small, purpose-built utilities created to reduce friction in real environments.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlessedCow&show_icons=true&theme=default&hide=issues)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/BlessedCow?cardType=github&theme=nord&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
