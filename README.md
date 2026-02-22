@@ -35,7 +35,7 @@ _________
 
 This work demonstrates a practical approach to understanding network behavior and risk through hands-on tooling.
 _________
-** Automation & Internal Tools** 
+**Automation & Internal Tools** 
 
 Small, purpose-built utilities created to reduce friction in real environments.
 
