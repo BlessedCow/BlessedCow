@@ -8,9 +8,9 @@ I primarily work with **Python, TypeScript, React, FastAPI, SQLite, and Linux/Wi
 
 ---
 
-## CareQueue
+## CareQFlow
 
-**CareQueue** is a local-first application for managing utilization review workflows and prior authorizations in behavioral healthcare settings.
+**CareQFlow** is a local-first application for managing utilization review workflows and prior authorizations in behavioral healthcare settings.
 
 It began as a way to organize authorization dates and gradually developed into a larger workflow platform focused on reducing the administrative friction involved in tracking ongoing reviews.
 
@@ -32,7 +32,7 @@ Current areas of the application include:
 
 The project is intentionally **local-first** and designed around privacy, traceability, and predictable behavior.
 
-CareQueue is also where I spend most of my development time and where I explore application architecture, security controls, healthcare workflow design, testing, packaging, and deployment.
+CareQFlow is also where I spend most of my development time and where I explore application architecture, security controls, healthcare workflow design, testing, packaging, and deployment.
 
 ---
 
